@@ -1,2 +1,2 @@
 # PM
-It's a simple password manager
+It's a simple python password manager.
